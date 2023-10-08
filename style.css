@@ -1,0 +1,45 @@
+body {
+    background-color: #e2f3fc;
+}
+
+li {
+    color: #571484;
+}
+
+.add {
+    background-color: #B7ADE9;
+    border: none;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.toDoList {
+    border: 4mm ridge #FFE141;
+    text-align: center;
+    color: #F4547A;
+    font-family: cursive;  
+}
+
+.btn {
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;  
+    border: none;
+    background-color: #EBC0C9;
+    font-family: cursive; 
+}
+
+.input {
+    border-radius: 5px;
+    height: 20px;
+    background-color:  #f7ecec;
+    border:solid #B7ADE9;
+    font-family: cursive;
+}
+
+.input.right {
+    width:300px ;
+}
